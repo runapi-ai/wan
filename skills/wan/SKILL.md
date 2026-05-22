@@ -4,6 +4,17 @@ description: Generate videos and images (Wan 2.2 / 2.5 / 2.6 / 2.7 text-to-video
 documentation: https://runapi.ai/models/wan
 provider_page: https://runapi.ai/providers/alibaba
 catalog: https://runapi.ai/models
+metadata:
+  openclaw:
+    homepage: https://runapi.ai/models/wan
+    primaryEnv: RUNAPI_API_KEY
+    requires:
+      env:
+      - RUNAPI_API_KEY
+    envVars:
+    - name: RUNAPI_API_KEY
+      required: true
+      description: RunAPI API key from https://runapi.ai/api_keys.
 ---
 
 # @runapi.ai/wan — RunAPI.ai Wan video and text-to-image
@@ -22,7 +33,7 @@ Set your API key in the environment:
 
 ```dotenv
 # .env
-RUNAPI_API_KEY=runapi_xxx   # get one at https://runapi.ai/settings/api_keys
+RUNAPI_API_KEY=runapi_xxx   # get one at https://runapi.ai/api_keys
 ```
 
 ```ts

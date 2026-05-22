@@ -1,5 +1,7 @@
 # Wan Video API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/wan)](https://skills.sh/runapi-ai/wan)
+
 Generate video, images, talking-head clips, and video edits with Wan 2.2 through 2.7. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Wan through RunAPI.
 
 The canonical agent file is `skills/wan/SKILL.md`.
