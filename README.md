@@ -9,12 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://runapi.ai/models/wan.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/wan"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/wan-sdk"><strong>SDK</strong></a>
+  <a href="https://runapi.ai/models/wan"><strong>Model Reference</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/wan-sdk"><strong>SDK</strong></a>
 </p>
 
 <div align="center">
 
-[![skills.sh](https://skills.sh/b/runapi-ai/wan)](https://skills.sh/runapi-ai/wan)
+[![skills.sh](https://www.skills.sh/b/runapi-ai/wan)](https://www.skills.sh/runapi-ai/wan/wan)
+[![ClawHub](https://img.shields.io/badge/ClawHub-runapi--wan-111827)](https://clawhub.ai/runapi-ai/runapi-wan)
+[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/wan)
+[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
+[![License](https://img.shields.io/github/license/runapi-ai/wan)](https://github.com/runapi-ai/wan/blob/main/LICENSE)
 
 </div>
 <br/>
